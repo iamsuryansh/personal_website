@@ -118,6 +118,11 @@ p {
 
 }
 
+.Intro {
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+
 hr {
   border-style: none none dotted none ;
   color: #eaf6f6;
